@@ -1,0 +1,14 @@
+selectors: &selectors
+  item_selector: ".chapter > ul > li"
+  item_image_selector: "img"
+  item_link_selector: "a"
+  item_time_selector: "a > div > div:nth-child(4)"
+  item_title_selector: "a > div > div:nth-child(5)"
+
+title: 裏サンデー
+
+pages:
+  - id: rairairai
+    title: 雷雷雷
+    url: https://urasunday.com/title/2341/212119
+    <<: *selectors
