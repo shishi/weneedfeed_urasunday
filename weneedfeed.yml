@@ -2,8 +2,8 @@ selectors: &selectors
   item_selector: ".chapter > ul > li"
   item_image_selector: "img"
   item_link_selector: "a"
-  item_time_selector: "a > div > div:nth-child(4)"
-  item_title_selector: "a > div > div:nth-child(5)"
+  item_time_selector: "a > div > div:nth-child(3)"
+  item_title_selector: "a > div > div:nth-child(2)"
 
 title: 裏サンデー
 
