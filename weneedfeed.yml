@@ -12,3 +12,7 @@ pages:
     title: 雷雷雷
     url: https://urasunday.com/title/2341/212119
     <<: *selectors
+  - id: kyushin_tensei
+    title: 球神転生
+    url: https://urasunday.com/title/2725/233653
+    <<: *selectors
