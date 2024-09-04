@@ -16,3 +16,7 @@ pages:
     title: 球神転生
     url: https://urasunday.com/title/2725/233653
     <<: *selectors
+  - id: sono_hono_no_na_ha_seiheki
+    title: その炎の名は性癖
+    url: https://urasunday.com/title/3026/266958
+    <<: *selectors
